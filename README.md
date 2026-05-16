@@ -1,11 +1,15 @@
-# 🔍 Network Anomaly Detection System
+# Network Anomaly Detection System
 
 A Machine Learning project that detects whether network traffic is **Normal or an Attack**
 using the **NSL-KDD dataset**, deployed with an interactive **Streamlit web app**.
 
 ---
 
-## 🚀 Features
+# Live App:  
+https://network-anomaly-detection-xzfgahvtf5apm45nkyvtv3.streamlit.app/
+
+
+## Features
 - Binary classification: Normal vs Attack
 - 4 ML models compared: Random Forest, SVM, KNN, Isolation Forest
 - **98% accuracy** achieved with Random Forest
