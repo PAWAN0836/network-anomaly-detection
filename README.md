@@ -20,7 +20,7 @@ https://network-anomaly-detection-xzfgahvtf5apm45nkyvtv3.streamlit.app/
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 | Category | Tools |
 |----------|-------|
 | Language | Python |
@@ -32,7 +32,7 @@ https://network-anomaly-detection-xzfgahvtf5apm45nkyvtv3.streamlit.app/
 
 ---
 
-## 📊 Model Results
+## Model Results
 
 | Model | Accuracy |
 |-------|----------|
@@ -43,7 +43,7 @@ https://network-anomaly-detection-xzfgahvtf5apm45nkyvtv3.streamlit.app/
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 ```
 network-anomaly-detection/
 ├── Network_anomaly_detection.ipynb  # Full ML pipeline
@@ -56,7 +56,7 @@ network-anomaly-detection/
 
 ---
 
-## ▶️ How to Run Locally
+## How to Run Locally
 
 ```bash
 # 1. Clone the repo
@@ -72,12 +72,17 @@ streamlit run app.py
 
 ---
 
-## 📌 Dataset
+## Dataset
 - **NSL-KDD** — improved version of KDD Cup 1999 dataset
 - 41 features per network connection record
 - Binary label: normal / attack
 
 ---
 
-## 👤 Author
+## Author
 **Bairi Pawan Kumar** | B.Tech CSE | C.V. Raman Global University
+
+## Connect With Me
+
+- GitHub: https://github.com/PAWAN0836
+- LinkedIn: [https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/bairi-paawan-kumar-26bb4628b/)
